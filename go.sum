@@ -1,0 +1,4 @@
+github.com/Wittavat2000/bookstore_oauth-go v0.0.0-20231021070348-cf08d1efc416 h1:vV1D7y5A4FDlGL2KEN5C1B647bfTR8KArivmeTqffY8=
+github.com/Wittavat2000/bookstore_oauth-go v0.0.0-20231021070348-cf08d1efc416/go.mod h1:zPnw6X8pnfHcI3QzAceFsZXvZpRXCydZVH+w9Q4sMFM=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0 h1:EDOjA2IGgjSBlPlnW7CzBUo/o410SMiFh670jP29Kc4=
+github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0/go.mod h1:Z7qYja4aGk/RWl1yJtN1LXRvC7Hsbq8SEbqWWDrMqMs=
